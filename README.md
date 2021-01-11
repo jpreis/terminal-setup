@@ -1,1 +1,1 @@
-# terminal-setup
+# Terminal Setup
