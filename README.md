@@ -1,4 +1,6 @@
-# `⟩ Terminal Setup`
+# Terminal Setup
+
+![iTerm preferences](header.png?raw=true)
 
 * **Shell:** zsh (with [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh))
 * **Terminal:** [iTerm 2](https://iterm2.com/) (with [Night Owl](https://github.com/nickcernis/iterm2-night-owl) color preset)
